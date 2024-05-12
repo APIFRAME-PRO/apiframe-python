@@ -5,7 +5,8 @@ with open("README.md", "r") as f:
 
 setup(
     name='apiframe',
-    version='0.0.1',
+    url='https://github.com/APIFRAME-PRO/apiframe-python',
+    version='0.0.2',
     packages=find_packages(),
     install_requires=['requests'],
     description='A Python client for the Apiframe API',
