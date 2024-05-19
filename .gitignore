@@ -2,3 +2,4 @@ example.py
 dist/
 build/
 apiframe.egg-info/
+apiframe_python/__pycache__
